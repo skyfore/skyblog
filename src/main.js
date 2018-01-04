@@ -6,6 +6,7 @@ import router from './router'
 
 //  vue-material css global import
 import 'vue-material/dist/vue-material.min.css'
+import 'vue-material/dist/theme/default.css'
 
 //  import whole vue-material but will split soon
 import VueMaterial from 'vue-material'
