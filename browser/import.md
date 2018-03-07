@@ -32,3 +32,7 @@ export default a;
 </script>
 
 ```
+
+> 
+  - source: https://www.jianshu.com/p/386916c73dad
+  - mdn: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import
